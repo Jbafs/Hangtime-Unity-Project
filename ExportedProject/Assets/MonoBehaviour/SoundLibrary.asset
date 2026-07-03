@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71eb5fed38c760cced3d869e5e7193d6, type: 3}
+  m_Name: SoundLibrary
+  m_EditorClassIdentifier:
+  jump: {fileID: 8300000, guid: 8a9f2df8bdddcce4eb378ecab57298ad, type: 3}
+  blockJump: {fileID: 8300000, guid: 9d98d08f26005be40adf04b63c2ef7b9, type: 3}
+  swing: {fileID: 8300000, guid: 2f2b5dd7bf90aa34d8b0fa2c2cf503ec, type: 3}
+  land: {fileID: 8300000, guid: cecf4a36002e8fc4eab7c5ca54affad1, type: 3}
+  spike: {fileID: 8300000, guid: 0afa107df4de96b46b63d01c3c6dcab9, type: 3}
+  bump: {fileID: 8300000, guid: d49372aa639c9574e8509118c59ffca3, type: 3}
+  block: {fileID: 8300000, guid: 1b0b190177233284cb8bf43d93c047da, type: 3}
+  tool: {fileID: 8300000, guid: af27f6344672218468121c1128ac8a57, type: 3}
+  set: {fileID: 8300000, guid: f5174f6afcb62084d94d01cc4db4ac90, type: 3}
+  tip: {fileID: 8300000, guid: d4a8aeb283819b14ab6069d3a585ac75, type: 3}
+  pointIn: {fileID: 8300000, guid: 54379094793bbbc4bad503af83765507, type: 3}
+  pointOut: {fileID: 8300000, guid: ecde8532c651e1e4ab3480a60cda7b2c, type: 3}
+  ace: {fileID: 8300000, guid: aec6fe4ef4a99f94ab2913e73d3d3dbc, type: 3}
+  windowSmash: {fileID: 8300000, guid: 76d2348050c56d0428007a3aa743bf3c, type: 3}
+  spinServe: {fileID: 8300000, guid: b51a6119e11d82a4195adebda333701f, type: 3}
+  floatServe: {fileID: 8300000, guid: 212028a7d06c9e14688de4de54d64cc0, type: 3}
+  buttonClick: {fileID: 8300000, guid: 0afa107df4de96b46b63d01c3c6dcab9, type: 3}
+  buttonWhoosh: {fileID: 8300000, guid: 6bebf396e930f134cb5b3ee1d917c337, type: 3}
+  dialogueSetter: {fileID: 8300000, guid: 2dea2d874dc656249be7355afd3def04, type: 3}
+  dialogueSpiker: {fileID: 8300000, guid: f61962860b7f3574cb78313f8ebb1cd5, type: 3}
+  buttonHover: {fileID: 8300000, guid: f24984117c32f2844a230de47d8dd21b, type: 3}
+  net: {fileID: 8300000, guid: 08457b254547c7249bfb667c674e572f, type: 3}
+  perfectBump: {fileID: 8300000, guid: ae3cfd57ddaea0b4a939e75d468b6b56, type: 3}
+  cheering: {fileID: 8300000, guid: 4d36baf13fcd0af46b63fbf673447fbf, type: 3}
+  applause: {fileID: 8300000, guid: 3db378aab0731ca4582f9a7862ca850a, type: 3}
+  limitBreak: {fileID: 8300000, guid: ae3cfd57ddaea0b4a939e75d468b6b56, type: 3}

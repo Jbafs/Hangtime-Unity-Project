@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 097969fb56efddfa71a39e7e0b3b9483, type: 3}
+  m_Name: Spin Shot
+  m_EditorClassIdentifier:
+  timer: -4725.433
+  effect: {fileID: 1709254077376921, guid: 723dac886e601b94a85a37f9dcb16ffa, type: 2}
+  quickDrop: {fileID: 11400000, guid: b4414021ad9358e41bdd44343e19c048, type: 2}

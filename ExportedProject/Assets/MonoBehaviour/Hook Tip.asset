@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9679aae0553a03d4b24dfde7531bf497, type: 3}
+  m_Name: Hook Tip
+  m_EditorClassIdentifier:
+  timer: -1118.3193
+  effect: {fileID: 1709254077376921, guid: d9afbd99c3946e742988027949e9f499, type: 2}
+  quickDrop: {fileID: 11400000, guid: a8bf532144eace348ab70275418c7e83, type: 2}

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4a80a89b3d75d1966b615e095e09023, type: 3}
+  m_Name: Knockout Serve
+  m_EditorClassIdentifier:
+  timer: -7634.1133
+  effect: {fileID: 1709254077376921, guid: 50bb8b509e15b0c40bac1eff4d4bd5ea, type: 2}

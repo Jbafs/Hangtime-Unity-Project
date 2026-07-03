@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9d097726832c82c963d16920d611797, type: 3}
+  m_Name: Bounce Tip
+  m_EditorClassIdentifier:
+  timer: -5358.832
+  effect: {fileID: 1709254077376921, guid: 1f8c66d60238d2b45a6442cf1c82e354, type: 2}
+  lowTip: {fileID: 11400000, guid: 4d6dfd1a69e7f784a8ec11abeab416f9, type: 2}

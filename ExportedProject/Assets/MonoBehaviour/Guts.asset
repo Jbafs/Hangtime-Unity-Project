@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36dab81ad8a6c3721deb960f910b370e, type: 3}
+  m_Name: Guts
+  m_EditorClassIdentifier:
+  timer: -1255.0637
+  effect: {fileID: 1709254077376921, guid: 17581ee0b4bd9b64fbb0f69ac01311ac, type: 2}

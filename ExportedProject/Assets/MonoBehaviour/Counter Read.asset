@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c1abc0e368c582b705f72a0d189a98, type: 3}
+  m_Name: Counter Read
+  m_EditorClassIdentifier:
+  timer: 0
+  effect: {fileID: 1709254077376921, guid: a8a8183a4b304fa4f9384c81a90ef11f, type: 2}
